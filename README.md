@@ -1,6 +1,6 @@
 Python Syllabus:
-	1. Python
-	2. NumPy
+	1. Python - DONE
+	2. NumPy - In Progress
 	3. Pandas
 	4. Matplotlib
 	5. Seaborn
