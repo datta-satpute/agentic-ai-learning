@@ -15,6 +15,8 @@ Syllabus:
 
 Video Links:
 
+Videos Link:  https://www.youtube.com/playlist?list=PLpLBSl8eY8jRoR_wx_-ky9rKydbFyQcO2
+
 NumPy: https://youtube.com/playlist?list=PLMfAHlb5o1xGe4V0ZGWzYKtDkA9ey5g4a&si=q6bHm6HoYqrkGZow
 
 Pandas: https://www.youtube.com/watch?v=76H-8-mi1Cc&list=PLjVLYmrlmjGdEE2jFpL71LsVH5QjDP5s4&index=1
