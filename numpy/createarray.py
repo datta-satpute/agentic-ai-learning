@@ -1,0 +1,7 @@
+# create a numpy ndarray objct.
+# array object in numpy is called nd arrray
+
+import numpy as np
+x = np.array([1, 2, 3, 4, 5])
+print(x)
+print(type(x))
